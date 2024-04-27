@@ -1,0 +1,6 @@
+
+Ekotlin:S1481"-Remove this unused "newState" local variable.(Ì”„Á
+hkotlin:S1763<"JRefactor this piece of code to not have any dead code after this "return".(‰¶¶G8‚ΩúÜÒ1
+^kotlin:S6510"AMove "return" statements from all branches before "if" statement.(‡Û≠ú¯ˇˇˇˇ
+`kotlin:S65105"AMove "return" statements from all branches before "if" statement.(ôçˇπ8Ú˘€ÇÒ1
+`kotlin:S6510P"AMove "return" statements from all branches before "if" statement.(ëæ⁄∫8Ú˘€ÇÒ1
